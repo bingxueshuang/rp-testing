@@ -10,6 +10,5 @@ func subtract(x, y) {
 	return x - y
 }
 
-export { main, add }
-
+export { main, add, subtract }
 
