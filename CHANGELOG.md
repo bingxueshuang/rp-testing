@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/bingxueshuang/rp-testing/compare/v0.0.2...v0.0.3) (2023-06-24)
+
+
+### Features
+
+* subtract ([#4](https://github.com/bingxueshuang/rp-testing/issues/4)) ([bc4a379](https://github.com/bingxueshuang/rp-testing/commit/bc4a379d4d8565fa7bbfc383f5572052d0b98183)), closes [#3](https://github.com/bingxueshuang/rp-testing/issues/3)
+
 ## [0.0.2](https://github.com/bingxueshuang/rp-testing/compare/v0.0.1...v0.0.2) (2023-06-24)
 
 
