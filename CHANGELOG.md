@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.0](https://github.com/bingxueshuang/rp-testing/compare/v0.0.3...v0.1.0) (2023-06-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* archive message
+
+### Features
+
+* archive message ([bb5739d](https://github.com/bingxueshuang/rp-testing/commit/bb5739d768217beeeeed0843d079a7d3df206af4))
+
 ## [0.0.3](https://github.com/bingxueshuang/rp-testing/compare/v0.0.2...v0.0.3) (2023-06-24)
 
 
