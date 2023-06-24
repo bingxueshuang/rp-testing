@@ -1,0 +1,21 @@
+{
+    "name": "rp-testing",
+    "description": "ui library for the web",
+    "private": true,
+    "version": "0.0.1",
+    "type": "module",
+    "engines": {
+        "node": ">=18",
+        "pnpm": ">=7"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bingxueshuang/rp-testing.git"
+    },
+    "author": "Manojna",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/bingxueshuang/rp-testing/issues"
+    },
+    "homepage": "https://github.com/bingxueshuang/rp-testing#readme"
+}
